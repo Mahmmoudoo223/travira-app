@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/team/tourism2022/BuildConfig.java
+ com.team.tourism2022.BuildConfig

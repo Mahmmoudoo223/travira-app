@@ -1,0 +1,167 @@
+{
+    "order": {
+        "user_id": 306,
+        "seller_id": 261,
+        "shipping_address": "{\"id\":141,\"user_id\":306,\"address\":null,\"district\":\"yyy\",\"street\":\"tt\",\"building\":\"yy\",\"floor\":5,\"apartment\":55,\"nearest_landmark\":\"nn\",\"country\":\"62\",\"city\":\"8\",\"postal_code\":null,\"phone\":\"+201097970465\",\"country_code\":\"+20\",\"set_default\":1,\"created_at\":\"2022-03-23T08:36:08.000000Z\",\"updated_at\":\"2022-03-24T08:45:51.000000Z\",\"created_by\":306,\"updated_by\":306,\"name\":\"yyyy\",\"email\":null}",
+        "payment_type": "fawry",
+        "payment_status": "unpaid",
+        "grand_total": 8140,
+        "tax": 0,
+        "shipping_cost": 40,
+        "delivery_period": 5,
+        "coupon_discount": 0,
+        "code": "20220404-115953",
+        "date": 1649066393,
+        "notes": null,
+        "created_by": 306,
+        "updated_by": 306,
+        "updated_at": "2022-04-04T09:59:53.000000Z",
+        "created_at": "2022-04-04T09:59:53.000000Z",
+        "id": 647
+    },
+    "items": {
+        "itemid": 2
+    },
+    "result": true,
+    "message": "Order Created Successfully"
+}
+
+
+res={
+    "order": {
+        "user_id": 306,
+        "seller_id": 261,
+        "shipping_address": "{\"id\":141,\"user_id\":306,\"address\":null,\"district\":\"yyy\",\"street\":\"tt\",\"building\":\"yy\",\"floor\":5,\"apartment\":55,\"nearest_landmark\":\"nn\",\"country\":\"62\",\"city\":\"8\",\"postal_code\":null,\"phone\":\"+201097970465\",\"country_code\":\"+20\",\"set_default\":1,\"created_at\":\"2022-03-23T08:36:08.000000Z\",\"updated_at\":\"2022-03-24T08:45:51.000000Z\",\"created_by\":306,\"updated_by\":306,\"name\":\"yyyy\",\"email\":null}",
+        "payment_type": "fawry",
+        "payment_status": "unpaid",
+        "grand_total": 32440,
+        "tax": 0,
+        "shipping_cost": 40,
+        "delivery_period": 5,
+        "coupon_discount": 32299,
+        "code": "20220404-012640",
+        "date": 1649071600,
+        "notes": null,
+        "created_by": 306,
+        "updated_by": 306,
+        "updated_at": "2022-04-04T11:26:40.000000Z",
+        "created_at": "2022-04-04T11:26:40.000000Z",
+        "id": 649
+    },
+    "chargeItems": [
+        {
+            "itemId": 491,
+            "description": "playstation 5 Egypt",
+            "quantity": 4,
+            "price": 25.25
+        }
+    ],
+    "result": true,
+    "message": "Order Created Successfully"
+}
+    I/flutter ( 2907): res========{
+    "order": {
+        "user_id": 306,
+        "seller_id": 261,
+        "shipping_address": "{\"id\":141,\"user_id\":306,\"address\":null,\"district\":\"yyy\",\"street\":\"tt\",\"building\":\"yy\",\"floor\":5,\"apartment\":55,\"nearest_landmark\":\"nn\",\"country\":\"62\",\"city\":\"8\",\"postal_code\":null,\"phone\":\"+201097970465\",\"country_code\":\"+20\",\"set_default\":1,\"created_at\":\"2022-03-23T08:36:08.000000Z\",\"updated_at\":\"2022-03-24T08:45:51.000000Z\",\"created_by\":306,\"updated_by\":306,\"name\":\"yyyy\",\"email\":null}",
+        "payment_type": "fawry",
+        "payment_status": "unpaid",
+        "grand_total": 32440,
+        "tax": 0,
+        "shipping_cost": 40,
+        "delivery_period": 5,
+        "coupon_discount": 32299,
+        "code": "20220404-012640",
+        "date": 1649071600,
+        "notes": null,
+        "created_by": 306,
+        "updated_by": 306,
+        "updated_at": "2022-04-04T11:26:40.000000Z",
+        "created_at": "2022-04-04T11:26:40.000000Z",
+        "id": 649
+    },
+    "chargeItems": [
+        {
+            "itemId": 491,
+            "description": "playstation 5 Egypt",
+            "quantity": 4,
+            "price": 25.25
+        }
+    ],
+    "result": true,
+    "message": "Order Created Successfully"
+}
+
+
+
+{
+    "order": {
+        "user_id": 306,
+        "seller_id": 261,
+        "shipping_address": "{\"id\":141,\"user_id\":306,\"address\":null,\"district\":\"yyy\",\"street\":\"tt\",\"building\":\"yy\",\"floor\":5,\"apartment\":55,\"nearest_landmark\":\"nn\",\"country\":\"62\",\"city\":\"8\",\"postal_code\":null,\"phone\":\"+201097970465\",\"country_code\":\"+20\",\"set_default\":1,\"created_at\":\"2022-03-23T08:36:08.000000Z\",\"updated_at\":\"2022-03-24T08:45:51.000000Z\",\"created_by\":306,\"updated_by\":306,\"name\":\"yyyy\",\"email\":null}",
+        "payment_type": "fawry",
+        "payment_status": "unpaid",
+        "grand_total": 32440,
+        "tax": 0,
+        "shipping_cost": 40,
+        "delivery_period": 5,
+        "coupon_discount": 32299,
+        "code": "20220404-014613",
+        "date": 1649072773,
+        "notes": null,
+        "created_by": 306,
+        "updated_by": 306,
+        "updated_at": "2022-04-04T11:46:13.000000Z",
+        "created_at": "2022-04-04T11:46:13.000000Z",
+        "id": 650
+    },
+    "chargeItems": [
+        {
+            "itemId": 491,
+            "description": "playstation 5 Egypt",
+            "quantity": 4,
+            "price": 25.25
+        },
+        {
+            "itemId": "shipping",
+            "description": "shipping",
+            "quantity": 1,
+            "price": 40
+        }
+    ],
+    "result": true,
+    I/flutter ( 2907): res========{
+        "order": {
+            "user_id": 306,
+            "seller_id": 261,
+            "shipping_address": "{\"id\":141,\"user_id\":306,\"address\":null,\"district\":\"yyy\",\"street\":\"tt\",\"building\":\"yy\",\"floor\":5,\"apartment\":55,\"nearest_landmark\":\"nn\",\"country\":\"62\",\"city\":\"8\",\"postal_code\":null,\"phone\":\"+201097970465\",\"country_code\":\"+20\",\"set_default\":1,\"created_at\":\"2022-03-23T08:36:08.000000Z\",\"updated_at\":\"2022-03-24T08:45:51.000000Z\",\"created_by\":306,\"updated_by\":306,\"name\":\"yyyy\",\"email\":null}",
+            "payment_type": "fawry",
+            "payment_status": "unpaid",
+            "grand_total": 32440,
+            "tax": 0,
+            "shipping_cost": 40,
+            "delivery_period": 5,
+            "coupon_discount": 32299,
+            "code": "20220404-014613",
+            "date": 1649072773,
+            "notes": null,
+            "created_by": 306,
+            "updated_by": 306,
+            "updated_at": "2022-04-04T11:46:13.000000Z",
+            "created_at": "2022-04-04T11:46:13.000000Z",
+            "id": 650
+        },
+        "chargeItems": [
+            {
+                "itemId": 491,
+                "description": "playstation 5 Egypt",
+                "quantity": 4,
+                "price": 25.25
+            },
+            {
+                "itemId": "shipping",
+                "description": "shipping",
+                "quantity": 1,
+                "price": 40
+            }
+        ],"result
